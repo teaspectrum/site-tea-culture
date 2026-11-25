@@ -1,0 +1,55 @@
+{
+  "site": "culture",
+  "name": {
+    "zh": "茶文化",
+    "en": "Culture"
+  },
+  "domain": "culture.chapu.org",
+  "contentMode": "production",
+  "deployMode": "production",
+  "coreVersion": "1.0.0",
+  "uiVersion": "1.0.0",
+  "brandVersion": "1.0.0",
+  "generatedAt": "2026-11-25T07:14:13.417Z",
+  "pageCount": 32,
+  "kinds": {
+    "home": 2,
+    "catalog": 12,
+    "search": 2,
+    "about": 2,
+    "contribute": 2,
+    "detail": 12
+  },
+  "entryCounts": {
+    "art": {
+      "zh": 4,
+      "en": 4
+    },
+    "book": {
+      "zh": 6,
+      "en": 6
+    },
+    "custom": {
+      "zh": 5,
+      "en": 5
+    },
+    "guide": {
+      "zh": 2,
+      "en": 2
+    },
+    "event": {
+      "zh": 4,
+      "en": 4
+    },
+    "person": {
+      "zh": 6,
+      "en": 6
+    }
+  },
+  "searchRecords": 12,
+  "issues": {
+    "errors": 0,
+    "warnings": 0,
+    "items": []
+  }
+}
