@@ -6,19 +6,19 @@
   },
   "domain": "culture.chapu.org",
   "contentMode": "production",
-  "deployMode": "pages",
+  "deployMode": "production",
   "coreVersion": "1.0.0",
   "uiVersion": "1.0.0",
   "brandVersion": "1.0.0",
-  "generatedAt": "2026-11-26T00:35:05.328Z",
-  "pageCount": 140,
+  "generatedAt": "2026-11-26T08:42:46.686Z",
+  "pageCount": 168,
   "kinds": {
     "home": 2,
     "catalog": 12,
     "search": 2,
     "about": 2,
     "contribute": 2,
-    "detail": 120
+    "detail": 148
   },
   "entryCounts": {
     "art": {
@@ -26,27 +26,27 @@
       "en": 7
     },
     "book": {
-      "zh": 9,
-      "en": 9
+      "zh": 12,
+      "en": 12
     },
     "custom": {
-      "zh": 24,
-      "en": 24
+      "zh": 26,
+      "en": 26
     },
     "guide": {
       "zh": 2,
       "en": 2
     },
     "event": {
-      "zh": 9,
-      "en": 9
+      "zh": 15,
+      "en": 15
     },
     "person": {
-      "zh": 9,
-      "en": 9
+      "zh": 12,
+      "en": 12
     }
   },
-  "searchRecords": 120,
+  "searchRecords": 148,
   "issues": {
     "errors": 0,
     "warnings": 0,
