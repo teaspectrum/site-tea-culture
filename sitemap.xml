@@ -26,6 +26,9 @@
   <url><loc>https://culture.chapu.org/books/wanli-yehuo-bian/</loc></url>
   <url><loc>https://culture.chapu.org/books/xuanhe-beiyuan-gongcha/</loc></url>
   <url><loc>https://culture.chapu.org/books/record-of-tea/</loc></url>
+  <url><loc>https://culture.chapu.org/books/xu-cha-jing/</loc></url>
+  <url><loc>https://culture.chapu.org/books/yangxian-minghu-xi/</loc></url>
+  <url><loc>https://culture.chapu.org/books/zhu-quan-xiao-pin/</loc></url>
   <url><loc>https://culture.chapu.org/customs/butter-tea/</loc></url>
   <url><loc>https://culture.chapu.org/customs/american-tea/</loc></url>
   <url><loc>https://culture.chapu.org/customs/argentine-mate/</loc></url>
@@ -47,8 +50,10 @@
   <url><loc>https://culture.chapu.org/customs/vietnamese-tea/</loc></url>
   <url><loc>https://culture.chapu.org/customs/west-african-tea/</loc></url>
   <url><loc>https://culture.chapu.org/customs/gongfu-tea/</loc></url>
+  <url><loc>https://culture.chapu.org/customs/hong-kong-milk-tea/</loc></url>
   <url><loc>https://culture.chapu.org/customs/japanese-tea-ceremony/</loc></url>
   <url><loc>https://culture.chapu.org/customs/lei-cha/</loc></url>
+  <url><loc>https://culture.chapu.org/customs/mongolian-milk-tea/</loc></url>
   <url><loc>https://culture.chapu.org/customs/moroccan-mint-tea/</loc></url>
   <url><loc>https://culture.chapu.org/guides/gongfu-tea-guide/</loc></url>
   <url><loc>https://culture.chapu.org/guides/reading-tea-culture/</loc></url>
@@ -61,14 +66,17 @@
   <url><loc>https://culture.chapu.org/history/modern-tea-industry/</loc></url>
   <url><loc>https://culture.chapu.org/history/song-tea-horse-market/</loc></url>
   <url><loc>https://culture.chapu.org/history/song-whisked-tea/</loc></url>
+  <url><loc>https://culture.chapu.org/people/bai-juyi/</loc></url>
   <url><loc>https://culture.chapu.org/people/cai-xiang/</loc></url>
   <url><loc>https://culture.chapu.org/people/okakura-kakuzo/</loc></url>
   <url><loc>https://culture.chapu.org/people/wu-jue-nong/</loc></url>
   <url><loc>https://culture.chapu.org/people/zhu-quan/</loc></url>
   <url><loc>https://culture.chapu.org/people/lu-tong/</loc></url>
+  <url><loc>https://culture.chapu.org/people/lu-you/</loc></url>
   <url><loc>https://culture.chapu.org/people/lu-yu/</loc></url>
   <url><loc>https://culture.chapu.org/people/sen-no-rikyu/</loc></url>
   <url><loc>https://culture.chapu.org/people/su-shi/</loc></url>
+  <url><loc>https://culture.chapu.org/people/zhang-dai/</loc></url>
   <url><loc>https://culture.chapu.org/people/zhao-ji/</loc></url>
   <url><loc>https://culture.chapu.org/en/</loc></url>
   <url><loc>https://culture.chapu.org/en/people/</loc></url>
@@ -96,6 +104,9 @@
   <url><loc>https://culture.chapu.org/en/books/wanli-yehuo-bian/</loc></url>
   <url><loc>https://culture.chapu.org/en/books/xuanhe-beiyuan-gongcha/</loc></url>
   <url><loc>https://culture.chapu.org/en/books/record-of-tea/</loc></url>
+  <url><loc>https://culture.chapu.org/en/books/xu-cha-jing/</loc></url>
+  <url><loc>https://culture.chapu.org/en/books/yangxian-minghu-xi/</loc></url>
+  <url><loc>https://culture.chapu.org/en/books/zhu-quan-xiao-pin/</loc></url>
   <url><loc>https://culture.chapu.org/en/customs/butter-tea/</loc></url>
   <url><loc>https://culture.chapu.org/en/customs/american-tea/</loc></url>
   <url><loc>https://culture.chapu.org/en/customs/argentine-mate/</loc></url>
@@ -117,8 +128,10 @@
   <url><loc>https://culture.chapu.org/en/customs/vietnamese-tea/</loc></url>
   <url><loc>https://culture.chapu.org/en/customs/west-african-tea/</loc></url>
   <url><loc>https://culture.chapu.org/en/customs/gongfu-tea/</loc></url>
+  <url><loc>https://culture.chapu.org/en/customs/hong-kong-milk-tea/</loc></url>
   <url><loc>https://culture.chapu.org/en/customs/japanese-tea-ceremony/</loc></url>
   <url><loc>https://culture.chapu.org/en/customs/lei-cha/</loc></url>
+  <url><loc>https://culture.chapu.org/en/customs/mongolian-milk-tea/</loc></url>
   <url><loc>https://culture.chapu.org/en/customs/moroccan-mint-tea/</loc></url>
   <url><loc>https://culture.chapu.org/en/guides/gongfu-tea-guide/</loc></url>
   <url><loc>https://culture.chapu.org/en/guides/reading-tea-culture/</loc></url>
@@ -131,13 +144,16 @@
   <url><loc>https://culture.chapu.org/en/history/modern-tea-industry/</loc></url>
   <url><loc>https://culture.chapu.org/en/history/song-tea-horse-market/</loc></url>
   <url><loc>https://culture.chapu.org/en/history/song-whisked-tea/</loc></url>
+  <url><loc>https://culture.chapu.org/en/people/bai-juyi/</loc></url>
   <url><loc>https://culture.chapu.org/en/people/cai-xiang/</loc></url>
   <url><loc>https://culture.chapu.org/en/people/okakura-kakuzo/</loc></url>
   <url><loc>https://culture.chapu.org/en/people/wu-jue-nong/</loc></url>
   <url><loc>https://culture.chapu.org/en/people/zhu-quan/</loc></url>
   <url><loc>https://culture.chapu.org/en/people/lu-tong/</loc></url>
+  <url><loc>https://culture.chapu.org/en/people/lu-you/</loc></url>
   <url><loc>https://culture.chapu.org/en/people/lu-yu/</loc></url>
   <url><loc>https://culture.chapu.org/en/people/sen-no-rikyu/</loc></url>
   <url><loc>https://culture.chapu.org/en/people/su-shi/</loc></url>
+  <url><loc>https://culture.chapu.org/en/people/zhang-dai/</loc></url>
   <url><loc>https://culture.chapu.org/en/people/zhao-ji/</loc></url>
 </urlset>

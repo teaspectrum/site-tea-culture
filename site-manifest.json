@@ -10,15 +10,15 @@
   "coreVersion": "1.0.0",
   "uiVersion": "1.0.0",
   "brandVersion": "1.0.0",
-  "generatedAt": "2026-11-26T02:03:49.079Z",
-  "pageCount": 140,
+  "generatedAt": "2026-11-26T03:20:14.952Z",
+  "pageCount": 156,
   "kinds": {
     "home": 2,
     "catalog": 12,
     "search": 2,
     "about": 2,
     "contribute": 2,
-    "detail": 120
+    "detail": 136
   },
   "entryCounts": {
     "art": {
@@ -26,12 +26,12 @@
       "en": 7
     },
     "book": {
-      "zh": 9,
-      "en": 9
+      "zh": 12,
+      "en": 12
     },
     "custom": {
-      "zh": 24,
-      "en": 24
+      "zh": 26,
+      "en": 26
     },
     "guide": {
       "zh": 2,
@@ -42,11 +42,11 @@
       "en": 9
     },
     "person": {
-      "zh": 9,
-      "en": 9
+      "zh": 12,
+      "en": 12
     }
   },
-  "searchRecords": 120,
+  "searchRecords": 136,
   "issues": {
     "errors": 0,
     "warnings": 0,
